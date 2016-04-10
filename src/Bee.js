@@ -1,7 +1,7 @@
 import Grub from './Grub'
 
 class Bee extends Grub {
-  constructor () {
+  constructor() {
     super();
     this.age = 5;
     this.color = 'yellow';
